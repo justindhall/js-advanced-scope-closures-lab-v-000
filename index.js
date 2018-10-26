@@ -19,3 +19,5 @@ function produceTipCalculator(percentage) {
     return percentage * total;
   }
 }
+
+function createDiver
