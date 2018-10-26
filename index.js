@@ -23,5 +23,7 @@ function produceTipCalculator(percentage) {
 function createDiver() {
   let driverId = 0;
   
-  
+  return class {
+    
+  }
 }
