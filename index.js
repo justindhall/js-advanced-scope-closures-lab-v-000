@@ -20,7 +20,7 @@ function produceTipCalculator(percentage) {
   }
 }
 
-function createDiver() {
+function createDriver() {
   let driverId = 0;
   
   return class {
