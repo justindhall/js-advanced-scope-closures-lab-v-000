@@ -1,5 +1,5 @@
 function produceDrivingRange(blockRange) {
-  return function(tripDistance) {
+  return function(origin, terminus) {
     if (range >= tripDistance) {
       return true;
     }
