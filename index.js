@@ -26,7 +26,7 @@ function createDiver() {
   return class {
     constructor(name) {
       this.name = name;
-      this.driverId = driverId ++
+      this.d = driverId ++
     }
   }
 }
